@@ -1,0 +1,46 @@
+[25-Mar-2011 06:21:50] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home8/linkdooc/public_html/tinycms/admin/varconfig.php on line 26
+[25-Mar-2011 06:25:18] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home8/linkdooc/public_html/tinycms/admin/varconfig.php on line 26
+[25-Mar-2011 06:25:20] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home8/linkdooc/public_html/tinycms/admin/varconfig.php on line 26
+[25-Mar-2011 06:25:53] PHP Warning:  include(style.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/login.php on line 2
+[25-Mar-2011 06:25:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'style.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/login.php on line 2
+[25-Mar-2011 07:05:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 9
+[25-Mar-2011 07:05:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 10
+[25-Mar-2011 07:07:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 10
+[25-Mar-2011 07:08:38] PHP Parse error:  syntax error, unexpected '<' in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 14
+[25-Mar-2011 07:08:51] PHP Parse error:  syntax error, unexpected '<' in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 14
+[25-Mar-2011 07:10:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 10
+[25-Mar-2011 07:11:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 10
+[25-Mar-2011 07:15:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 10
+[25-Mar-2011 07:18:59] PHP Parse error:  syntax error, unexpected ':' in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 07:20:45] PHP Parse error:  syntax error, unexpected T_STRING in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 07:23:23] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/index.php on line 12
+[25-Mar-2011 07:23:23] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/index.php on line 12
+[25-Mar-2011 07:24:58] PHP Warning:  include(session.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/home.php on line 2
+[25-Mar-2011 07:24:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'session.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/home.php on line 2
+[25-Mar-2011 07:24:58] PHP Warning:  include(../class/user.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/home.php on line 3
+[25-Mar-2011 07:24:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../class/user.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/home.php on line 3
+[25-Mar-2011 07:24:58] PHP Warning:  require_once(../connection_ipl.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/home.php on line 5
+[25-Mar-2011 07:24:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../connection_ipl.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/home.php on line 5
+[25-Mar-2011 23:29:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 8
+[25-Mar-2011 23:29:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:8) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:45:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 8
+[25-Mar-2011 23:45:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:8) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:47:28] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 8
+[25-Mar-2011 23:47:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:8) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 12
+[25-Mar-2011 23:48:10] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 9
+[25-Mar-2011 23:48:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:52:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:53:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:57:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 13
+[25-Mar-2011 23:59:35] PHP Parse error:  syntax error, unexpected ';' in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 8
+[26-Mar-2011 00:01:11] PHP Parse error:  syntax error, unexpected ';' in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 12
+[26-Mar-2011 00:01:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 15
+[26-Mar-2011 00:02:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/linkdooc/public_html/tinycms/admin/logincheck.php:6) in /home8/linkdooc/public_html/tinycms/admin/logincheck.php on line 16
+[26-Mar-2011 01:18:22] PHP Warning:  require_once(orm/user.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/linkdooc/public_html/tinycms/admin/user_detail.php on line 4
+[26-Mar-2011 01:18:22] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'orm/user.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/linkdooc/public_html/tinycms/admin/user_detail.php on line 4
+[27-Mar-2011 23:24:48] PHP Fatal error:  Call to undefined method model_user::set_userid() in /home8/linkdooc/public_html/tinycms/admin/get_user_enable_status.php on line 19
+[28-Mar-2011 02:00:18] PHP Fatal error:  Class 'model_post' not found in /home8/linkdooc/public_html/tinycms/admin/post_detail.php on line 6
+[28-Mar-2011 02:01:36] PHP Fatal error:  Class 'model_post' not found in /home8/linkdooc/public_html/tinycms/admin/post_detail.php on line 6
+[28-Mar-2011 02:02:05] PHP Fatal error:  Class 'post' not found in /home8/linkdooc/public_html/tinycms/model/model_post.php on line 1
+[29-Mar-2011 01:40:22] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home8/linkdooc/public_html/tinycms/admin/index.php on line 2
+[29-Mar-2011 01:53:21] PHP Parse error:  syntax error, unexpected $end in /home8/linkdooc/public_html/tinycms/admin/post_detail.php on line 100
